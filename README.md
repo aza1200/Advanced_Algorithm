@@ -10,5 +10,12 @@
 4. KD-Tree
 
 5. Lazy Propagation, Segment Tree
+  - 1차원, 2차원
 
+6. KMP
 
+7. LCA
+
+8. SCC
+  - Kosaraju
+9. MST (Minimum Spanning Tree)
